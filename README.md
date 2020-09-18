@@ -1,2 +1,2 @@
 # tiiajusslin.github.io
-About me and my portfolio
+My portfolio page

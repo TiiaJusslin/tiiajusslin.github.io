@@ -6008,25 +6008,7 @@ a.close.disabled {
 @media (prefers-reduced-motion: reduce) {
   .carousel-indicators li {
     transition: none;
-  }
-}
-.carousel-indicators .active {
-  opacity: 1;
-}
-
-.carousel-caption {
-  position: absolute;
-  right: 15%;
-  bottom: 20px;
-  left: 15%;
-  z-index: 10;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  color: #fff;
-  text-align: center;
-}
-
-@-webkit-keyframes spinner-border {
+  }ls
   to {
     transform: rotate(360deg);
   }
@@ -6116,13 +6098,15 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  /* background-color: #bd5d38 !important; */
+  background-color: #6f42c1 !important; 
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #964a2c !important;
+  /*background-color: #964a2c !important;*/
+  background-color: #6f42c1 !important; 
 }
 
 .bg-secondary {
